@@ -9,7 +9,7 @@ Welcome to the repository for [Sitekick Remastered](https://sitekickremastered.c
 
 # Setting up your Local Environment
 
-## Software Needed
+## Required Software
 1. [Unity Hub](https://unity3d.com/get-unity/download)
 1. [Unity 2021.3.8f1](https://unity3d.com/get-unity/download/archive)
 1. [MySQL](https://dev.mysql.com/downloads/) (I recommend downloading the MySQL Installer and installing the items through there)
